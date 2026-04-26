@@ -12,6 +12,10 @@ I have built 10+ dashboards, automated reporting by 30–40%, and worked with 20
 2. Databases & Languages: SQL (Joins, CTEs, Window Functions)
 3. Business & Tools: MIS Reporting, Market Research (5W1H Framework),  Canva, MS Office
 
+🖥️ Tech Stack:
+Python Power BI SQL Power Automate Excel Canva PostgreSQL MySQL
+Notion Git WordPress PowerPoint
+
 **Experience Highlights**
 1. Processed and analyzed 200,000+ records (PAN India programs)
 2. Automated reporting workflows, reducing manual effort by 40%
