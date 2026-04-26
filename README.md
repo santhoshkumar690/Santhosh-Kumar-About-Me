@@ -6,6 +6,10 @@ Results-driven Business Analyst with 3.5+ years of experience across analytics, 
 
 I have built 10+ dashboards, automated reporting by 30–40%, and worked with 200,000+ data records to deliver high-impact insights that improved forecasting accuracy, operational efficiency, and decision-making.
 
+🖥️ Tech Stack:
+Python Power BI SQL Power Automate Excel Canva PostgreSQL MySQL
+Notion Git WordPress PowerPoint
+
 **Tech Stack**
  
 1. Analytics & BI Tools: Power BI (DAX, Data Modeling, Visualization), Advanced Excel (Power Query, Pivot Tables, Automation)
