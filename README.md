@@ -1,6 +1,6 @@
-**Hi there, I'm Santhosh! 👋
+**Hi there, I'm Santhosh!** 👋
 
-Business Analyst | Operations | Power BI Developer**
+**Business Analyst | Operations | Power BI Developer**
 
 Results-driven Business Analyst with 3.5+ years of experience across analytics, operations, and research. Skilled in Power BI, SQL, Advanced Excel, and data modeling, with a strong track record of transforming complex datasets into actionable business insights.
 
